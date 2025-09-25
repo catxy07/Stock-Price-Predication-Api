@@ -21,16 +21,4 @@ I just built my first **stock price prediction mini project**, and the best part
 - FastAPI + yfinance = instant gratification for developers  
 - Mini projects can teach mega lessons  
 
----
 
-## Live API
-
-👉 Check it out here: [https://stock-price-model.onrender.com](https://stock-price-model.onrender.com)  
-
-**Endpoints you can try:**
-
-1. **Home:**  
-`GET /` → Welcome message  
-
-2. **Predict stock price:**  
-`GET /predict/?stock=AAPL` → Returns current price, historical data, and predicted price  
